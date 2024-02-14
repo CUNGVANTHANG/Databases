@@ -1,0 +1,1 @@
+SELECT * FROM xe WHERE nam_san_xuat = 2022;

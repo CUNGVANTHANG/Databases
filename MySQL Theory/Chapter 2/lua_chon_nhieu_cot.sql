@@ -1,0 +1,1 @@
+SELECT loai_xe, gia FROM xe;
