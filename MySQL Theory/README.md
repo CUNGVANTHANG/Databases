@@ -1,5 +1,8 @@
 # Database
 ## Mục lục
+
+- [Câu lệnh CMD nhanh với MySQL](#câu-lệnh-cmd-nhanh-với-mysql)
+
 - [Database](#database)
   - [Mục lục](#mục-lục)
   - [I. Tổng quan về cơ sở dữ liệu](#i-tổng-quan-về-cơ-sở-dữ-liệu)
@@ -41,6 +44,40 @@
     - [7. Kiểm tra tập hợp con có chứa bất kỳ dòng dữ liệu `EXISTS`](#7-kiểm-tra-tập-hợp-con-có-chứa-bất-kỳ-dòng-dữ-liệu-exists)
     - [8. Truy vấn con trong mệnh đề `FROM`](#8-truy-vấn-con-trong-mệnh-đề-from)
     - [9. Truy vấn con trong mệnh đề `SELECT`](#9-truy-vấn-con-trong-mệnh-đề-select)
+
+## Câu lệnh CMD nhanh với MySQL
+[:arrow_up: Mục lục](#mục-lục)
+
+Mở terminal và bắt đầu thao tác **Khởi động mysql**:
+
+```
+mysql -u root -p
+```
+
+hoặc 
+
+```
+mysql -h 127.0.0.1
+```
+
+**Xem danh sách các database bạn dùng câu lệnh.**
+
+```
+show databases;
+```
+
+**Thao tác với một database**, ta dùng lệnh:
+
+```
+use database_name;
+```
+
+**Xem các bảng có trong database:**
+
+```
+show tables;
+```
+
 
 ## I. Tổng quan về cơ sở dữ liệu
 [:arrow_up: Mục lục](#mục-lục)
