@@ -45,7 +45,16 @@
     - [7. Kiểm tra tập hợp con có chứa bất kỳ dòng dữ liệu `EXISTS`](#7-kiểm-tra-tập-hợp-con-có-chứa-bất-kỳ-dòng-dữ-liệu-exists)
     - [8. Truy vấn con trong mệnh đề `FROM`](#8-truy-vấn-con-trong-mệnh-đề-from)
     - [9. Truy vấn con trong mệnh đề `SELECT`](#9-truy-vấn-con-trong-mệnh-đề-select)
-
+  - [VII. Các phép toán Tập hợp](#vii-các-phép-toán-tập-hợp)
+  - [VIII. Kiến thức cơ bản về INSERT, UPDATE và DELETE](#viii-kiến-thức-cơ-bản-về-insert-update-và-delete)
+  - [IX. Định dạng văn bản](#ix-định-dạng-văn-bản)
+  - [X. Các hàm số học](#x-các-hàm-số-học)
+  - [XI. Các hàm xử lý dữ liệu ngày giờ](#xi-các-hàm-xử-lý-dữ-liệu-ngày-giờ)
+  - [XII. Giá trị null](#xii-giá-trị-null)
+  - [XIII. Hàm dữ liệu nâng cao](#xiii-hàm-dữ-liệu-nâng-cao)
+  - [XIV. Điều kiện trong SQL](#xiv-điều-kiện-trong-sql)
+  - [XV. INSERT, UPDATE và DELETE nâng cao](#xv-insert-update-và-delete-nâng-cao)
+  - [XVI. INSERT, UPDATE với giá trị mặc định](#xvi-insert-update-với-giá-trị-mặc-định)
 ## Câu lệnh CMD nhanh với MySQL
 [:arrow_up: Mục lục](#mục-lục)
 
